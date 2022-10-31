@@ -45,10 +45,10 @@ In all of the places where you're supposed to fill your information you'll find 
     <div class="header__text">
         <h1 class="heading-primary">
         <!-- Replace the following name with your name -->
-        <span>Syed Ali Hussnain</span>
+        <span>Lacey Foy</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
+        <p>A Web Developer based in Dallas, Tx.</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
@@ -131,10 +131,7 @@ For changing the screenshot:
             <div class="about__text">
                 <!-- Replace the below paragraph with info about yourself -->
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos id
-                nostrum illo harum blanditiis, tenetur eum suscipit cupiditate
-                in vel, ex quam quidem quos mollitia labore aut sunt eius
-                ratione molestiae fuga veniam facere similique voluptate.
+                "I am passionate about Artificial Intelligence tech and its impact on the future of our society. I am an insanely curious person who always seek out to meet new people with unique interests. I love to travel and explore different parts of the world. Over the past few years I've developed an extensive skill set to prepare for a future career in the tech industry. In particular I've had professional experience in data analysis, healthcare management, and technical writing. ",.
                 </p>
                 <!-- Provide a link to your resume -->
                 <a href="#" class="btn">My Resume</a>
@@ -172,7 +169,7 @@ For changing the screenshot:
             me is via an email.
           </p>
           <!-- Replace the email with yours -->
-          <a href="mailto:you@example.com" class="btn">you@example.com</a>
+          <a href="mailto:fg1041@gmail.com" class="btn">fg1041@gmail.com</a>
         </div>
       </div>
 </section>
@@ -189,32 +186,28 @@ For changing the screenshot:
         <!-- Update the links to point to your accounts -->
         <ul class="footer__social-links">
             <li class="footer__social-link-item">
-                <a href="https://twitter.com/nisarhassan12/">
+                <a href="https://twitter.com/lalaloopsi213/">
                     <img src="./images/twitter.svg" class="footer__social-image" alt="Twitter">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://github.com/nisarhassan12/">
+                <a href="https://github.com/lalaloopsi213">
                     <img src="./images/github.svg" class="footer__social-image" alt="Github">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href="https://codepen.io/nisar_hassan">
+                <a href="https://codepen.io/lalaloopsi">
                     <img src="./images/codepen.svg" class="footer__social-image" alt="Codepen">
                 </a>
             </li>
             <li class="footer__social-link-item">
-                <a href=https://www.linkedin.com/in/nisar-hassan-naqvi-413466199/">
+                <a href="https://www.linkedin.com/in/lacey-crawford/">
                     <img src="./images/linkedin.svg" class="footer__social-image" alt="Linkedin">
                 </a>
             </li>
         </ul>
 
-        <!-- If you give me some credit by keeping the below paragraph, will be huge for me 😊 Thanks. -->
-        <p>
-          &copy; 2020 - Template designed & developed by <a href="https://nisar.dev">Nisar</a>.
-        </p>
-        <div class="footer__github-buttons">
+
           <iframe
             src="https://ghbtns.com/github-btn.html?user=nisarhassan12&repo=portfolio-template&type=watch&count=true" 
             frameborder="0" scrolling="0" width="170" height="20" title="Watch Portfolio Template on GitHub">
