@@ -2,7 +2,7 @@
 
 ### Aspiring Developer ✨.
 
-To View the live site click [here &rarr;](https://portfolio-template.surge.sh)
+To View the live site click [here &rarr;](https://lalaloopsi213.github.io/portfolio/)
 
 ![Portfolio Gif](/images/portfolio.gif)
 
